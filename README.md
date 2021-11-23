@@ -2,6 +2,9 @@
 
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
+<h4 align="center"> Subject: Fire. "Dear Sir stroke Madam, I am writing to inform you of a fire which has broken out at the premises of..." no, that's too formal.
+"Dear Sir stroke Madam. Fire, exclamation mark. Fire, exclamation mark. Help me, exclamation mark. 123 Carrendon Road. Looking forward to hearing from you. All the best, Maurice Moss."</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodapop&label=Profile%20views&color=0e75b6&style=flat" alt="sodapop" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sodapop" alt="sodapop" /></a> </p>
