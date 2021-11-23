@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/alejandrocordon" target="blank"><img align="center" src="linkedin.gif" alt="alejandrocordon" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/alejandrocordon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alejandrocordon" height="30" width="40" /></a>
 <a href="https://medium.com/@cordon.alejandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cordon.alejandro" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpteqxwkfoslyjy2i1sd8eq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpteqxwkfoslyjy2i1sd8eq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucpteqxwkfoslyjy2i1sd8eq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpteqxwkfoslyjy2i1sd8eq" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sodapop&show_icons=true&locale=en&layout=compact" alt="sodapop" /></p>
