@@ -1,5 +1,6 @@
-### Hi there I'm Alejandro Cordón 👋
+### Hi there I'm Alejandro Cordón 👋 
 
+More info in my linkedin profile:
 <a href="https://www.linkedin.com/in/cordonalejandro" id="bottle" ><img src="linkedin.gif" alt="" class="thumbnails" width="40" height="40"/></a>
 
 
