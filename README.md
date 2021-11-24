@@ -20,7 +20,7 @@
 <a href="https://medium.com/@cordon.alejandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cordon.alejandro" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCPteqXwKfOslyjY2i1sD8EQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCPteqXwKfOslyjY2i1sD8EQ" height="30" width="40" /></a>
 <a href="https://tiktok.com/@random__projects" target="blank"><img align="center" src="tiktok.svg" alt="https://tiktok.com/@random__projects" height="30" width="40" /></a>
-<a href="https://alejandrocordon.com" target="blank"><img align="center" src="randomprojects.png" alt="https://alejandrocordon.com" height="30" width="40" /></a>
+<a href="https://alejandrocordon.com" target="blank"><img align="center" src="randomlogo.png" alt="https://alejandrocordon.com" height="30" width="30" /></a>
 </p>
 
 
