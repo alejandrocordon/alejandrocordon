@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodapop&label=Profile%20views&color=0e75b6&style=flat" alt="sodapop" /> </p>
 
-<h4 align="center"> Lets face ir. This is not the worse thins you've thing you've caught me doing. </h4>
+<h4 align="center"> Lets face it. This is not the worse thing you've caught me doing. </h4>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sodapop" alt="sodapop" /></a> </p> 
 
