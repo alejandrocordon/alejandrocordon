@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sodapop&label=Profile%20views&color=0e75b6&style=flat" alt="sodapop" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sodapop&label=Profile%20views&color=0e75b6&style=flat" alt="sodapop" /> </p>
 
 <h4 align="center"> Lets face it. This is not the worse thing you've caught me doing. </h4>
 
@@ -14,8 +14,8 @@
 
 -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/cordonalejandro"target="blank"><img align="center" src="linkedin.gif" alt="alejandrocordon" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/alejandrocordon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alejandrocordon" height="30" width="40" /></a>
 <a href="https://medium.com/@cordon.alejandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cordon.alejandro" height="30" width="40" /></a>
@@ -25,9 +25,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sodapop&show_icons=true&locale=en&layout=compact" alt="sodapop" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sodapop&show_icons=true&locale=en&layout=compact" alt="sodapop" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sodapop&show_icons=true&locale=en" alt="sodapop" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sodapop&" alt="sodapop" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sodapop&" alt="sodapop" /></p>-->
 
 
 <!--
