@@ -16,12 +16,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://alejandrocordon.com" target="blank"><img align="center" src="randomlogo.png" alt="https://alejandrocordon.com" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/cordonalejandro"target="blank"><img align="center" src="linkedin.gif" alt="alejandrocordon" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/alejandrocordon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alejandrocordon" height="30" width="40" /></a>
 <a href="https://medium.com/@cordon.alejandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cordon.alejandro" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCPteqXwKfOslyjY2i1sD8EQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCPteqXwKfOslyjY2i1sD8EQ" height="30" width="40" /></a>
 <a href="https://tiktok.com/@random__projects" target="blank"><img align="center" src="tiktok.svg" alt="https://tiktok.com/@random__projects" height="30" width="40" /></a>
-<a href="https://alejandrocordon.com" target="blank"><img align="center" src="randomlogo.png" alt="https://alejandrocordon.com" height="30" width="30" /></a>
 </p>
 
 
