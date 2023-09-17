@@ -1,6 +1,6 @@
 <!-- Help Edit this file with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-<h1 align="center">Hi 👋, I'm Alejandro Cordón</h1>
+<h1 align="center">Hi, I'm Alejandro Cordón</h1>
 
 <h3 align="center">A passionate developer from Spain</h3>
 
