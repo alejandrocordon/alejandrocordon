@@ -1,8 +1,11 @@
 <!-- Help Edit this file with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <p>
-<a href="https://www.linkedin.com/in/cordonalejandro"target="blank"><img align="center" src="background.png" alt="alejandrocordon" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/cordonalejandro" target="_blank">
+    <img align="center" src="background.png" alt="alejandrocordon" style="width: 100%; height: auto;" />
+  </a>
 </p>
+
 
 <h1 align="center">Hi, I'm Alejandro Cordón</h1>
 
