@@ -1,5 +1,7 @@
 <!-- Help Edit this file with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
+<a href="https://www.linkedin.com/in/cordonalejandro"target="blank"><img align="center" src="linkedin.gif" alt="alejandrocordon" height="30" width="30" /></a>
+
 <h1 align="center">Hi, I'm Alejandro Cordón</h1>
 
 <h3 align="center">A passionate developer from Spain</h3>
