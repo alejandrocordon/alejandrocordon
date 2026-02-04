@@ -9,8 +9,6 @@
 
 <h1 align="center">Hi, I'm Alejandro Cordón</h1>
 
-<h3 align="center">A passionate developer from Spain</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sodapop&label=Profile%20views&color=0e75b6&style=flat" alt="sodapop" /> </p>
 
 <h4 align="center"> Lets face it. This is not the worse thing you've caught me doing. </h4>
